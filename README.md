@@ -12,3 +12,5 @@ Bu konu hakkında kısa bir girizgah yapmak isterim. Front-end ekosistemi gün g
 * Fabrika Medya (Ankara)
 * Plentific (Remote)
 * Iyzico (Istanbul)
+* Yazılımbu (Ankara)
+* PekDijital (Bartın)
